@@ -312,11 +312,8 @@ Only information that proves to be stable, useful, and reusable should survive b
 
 <img width="1152" height="919" alt="image_10a4c8d5" src="https://github.com/user-attachments/assets/846291d9-b937-4335-8640-3317a8d70acf" />
 
-<img width="1152" height="919" alt="image_10a4c8d5" src="https://github.com/user-attachments/assets/d7178d8c-39b8-4efe-8aaa-acd182be65e2" />
-
 <img width="1594" height="672" alt="image_8cd7e7" src="https://github.com/user-attachments/assets/5616acfb-f6b7-4ee8-8e5c-18744762e0e4" />
 
-<img width="1152" height="919" alt="image_10a4c8d5" src="https://github.com/user-attachments/assets/f0571fda-26a2-4a5e-a7d8-21470e96970b" />
 
 1. Install docker
 
